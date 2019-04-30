@@ -1,49 +1,10 @@
 {
-  "_from": "@warpin/com.warpin.modules.diskmanager",
-  "_id": "@warpin/com.warpin.modules.diskmanager@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-WljUUiJYRxK0xfXR1DGiCU8KQBcipKW5C3yPx17zMqFLEgHtjM9ngpQ5QkJGZlcrH2DFnd3a/ymOaoaXyFzrTg==",
-  "_location": "/@warpin/com.warpin.modules.diskmanager",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "@warpin/com.warpin.modules.diskmanager",
-    "name": "@warpin/com.warpin.modules.diskmanager",
-    "escapedName": "@warpin%2fcom.warpin.modules.diskmanager",
-    "scope": "@warpin",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/@warpin/com.warpin.modules.diskmanager/-/com.warpin.modules.diskmanager-1.0.0.tgz",
-  "_shasum": "1ea64a3cc15b60d7a07c0f0cf1cd224254bf9093",
-  "_spec": "@warpin/com.warpin.modules.diskmanager",
-  "_where": "C:\\Users\\v.tihonyuk\\Documents\\New folder (3)",
-  "author": {
-    "name": "Warpin Lab"
-  },
-  "bundleDependencies": false,
-  "category": "Unity",
-  "dependencies": {},
-  "deprecated": false,
-  "description": "Disk Manager",
-  "devDependencies": {},
-  "displayName": "Disk Manager",
-  "keywords": [
-    "maths",
-    "unity"
-  ],
-  "license": "ISC",
-  "main": "index.js",
-  "name": "@warpin/com.warpin.modules.diskmanager",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "unity": "2018.3",
-  "version": "1.0.0"
+	"name": "com.warpin.diskmanager",
+	"displayName": "Disk Manager",
+	"version": "1.0.0",
+	"unity": "2018.3",
+	"keywords": [ "warpin" ],
+	"description": "Description",
+	"dependencies": {
+	}
 }
